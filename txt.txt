@@ -1,0 +1,39 @@
+1 attraversare un incrocio sulle strisce (c'è il semaforo?)
+
+Elementi:
+(-striscie = linee bianche dipinte in parrallelo,
+-marciapiede = spazio sopraelevato posizionato al lato di una strada,
+-veicoli = mezzo meccanico adibito, 
+-semaforo = palo verticale con 3 serie di lici colorate luce infriore verde, luce centrale gialla, luce superiore rossa,)
+
+Ci troviamo sul marciapiede in prossimità delle striscie pedonali
+
+verificare presenza di un semaforo:
+
+guardare a destra 
+    - se assente guardare a sinistra.
+
+    - se presente:
+        controllare colorazione delle luci
+            se giallo o rosso attendere
+            se verde procedere con prossimi passaggi
+
+guardare a destra
+verificare che non arrivio macchine
+se arriva qualche veicolo attendere in quella posizione fino a quando la caregiata e priva di veicoli
+
+guardare a sinistra
+verificare che non arrivio macchine
+se arriva qualche veicolo attendere in quella posizione fino a quando la caregiata e priva di veicoli
+
+A  spostare il peso sul piede (destro) 
+    e datti una spinta col piede che sta dietro (sinistro)
+    appoggia il piede che è in sospensione (sinistro) davanti al piede (destro)
+
+B  spostare il peso sul piede (sinistro) 
+    e datti una spinta col piede che sta dietro (destro)
+    appoggia il piede che è in sospensione (destro) davanti al piede (sinistro)
+
+alternare procedura A e B oltre il termine delle liinee bianche dipinte in parallelo
+
+fermare secuenza A e B sul marciapiede
