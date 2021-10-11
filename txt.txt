@@ -3,7 +3,7 @@
 Elementi:
 (-striscie = linee bianche dipinte in parrallelo,
 -marciapiede = spazio sopraelevato posizionato al lato di una strada,
--veicoli = mezzo meccanico adibito, 
+-veicoli = mezzo meccanico, 
 -semaforo = palo verticale con 3 serie di lici colorate luce infriore verde, luce centrale gialla, luce superiore rossa,)
 
 Ci troviamo sul marciapiede in prossimità delle striscie pedonali
